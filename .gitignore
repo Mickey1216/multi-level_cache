@@ -1,0 +1,7 @@
+!.gitignore
+LICENSE
+.vscode/
+node_modules/
+package-lock.json
+access_2013_05_30.log
+cacheFiles
